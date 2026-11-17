@@ -7,10 +7,10 @@ const config = {
 
   future: {},
 
-  url: 'https://kennyofthesmith.github.io',
-  baseUrl: '/student_template/',
-  organizationName: 'kennyofthesmith',
-  projectName: 'student_template',
+  url: 'https://Milkis00.github.io',
+  baseUrl: '/tuesday_class/',
+  organizationName: 'milkis00',
+  projectName: 'Tuesday_classw',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
