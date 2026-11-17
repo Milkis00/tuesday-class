@@ -9,8 +9,8 @@ const config = {
 
   url: 'https://Milkis00.github.io',
   baseUrl: '/tuesday-class/',
-  organizationName: 'milkis00',
-  projectName: 'Tuesday-class',
+  organizationName: 'Milkis00',
+  projectName: 'tuesday-class',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
