@@ -8,9 +8,9 @@ const config = {
   future: {},
 
   url: 'https://Milkis00.github.io',
-  baseUrl: '/tuesday_class/',
+  baseUrl: '/tuesday-class/',
   organizationName: 'milkis00',
-  projectName: 'Tuesday_classw',
+  projectName: 'Tuesday-class',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
@@ -50,7 +50,7 @@ const config = {
         title: '107T White Paper Series',
         logo: {
           alt: 'Series mark',
-          src: 'img/palmtree.svg',
+          src: 'img/palm.svg',
         },
         items: [
           {
